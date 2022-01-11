@@ -15,7 +15,7 @@ E-commerce helps lower the cost of a product and allows less wealthy people to b
 #### Project Description: 
 E-commerce as an economic development opportunity. E-commerce allows people to buy and sell physical goods, services, and digital products over the internet rather than at a brick-and-mortar location. Through an e-commerce website, a business can process orders, accept payments, manage shipping and logistics, and provide customer service. Small businesses have the opportunity to penetrate the market with their products.  New jobs are also created in supporting sectors, such as technology companies, payment service providers, and logistics companies.
 #### Problem: 
-Rural people and Rural people was not able to afford all services and products as they cost higher. 
+Rural people and Villagers was not able to afford all services and products as they cost higher. 
 #### Solution: 
 E-commerce has enabled rural areas to access services and products, which are otherwise not available to them. What problem are you trying to solve and how are you solving it? Even villagers and rural people, as well as hardworking urban people, are always busy with their work and cannot go to shops and buy whatever they need, so e-commerce website services help them buy things in their homes and help people get things at a low price. Also, consider grandpa and granny who may not be able to go to hospitals or grocery stores every now and then, but they can access an app or website and get whatever they want in e-commerce websites. As a result, the e-commerce sector offers more solutions to people's problems, making an e-commerce app and website is the ideal option. 
 
